@@ -1,3 +1,4 @@
+
 # 🟡 Blinkit Sales Analysis — Power BI Dashboard
 
 <p align="center">
@@ -84,40 +85,33 @@ This project is an **end-to-end Power BI Dashboard** built to analyze Blinkit's 
 ---
 
 ## 📊 Charts & Visualizations
-
+<img width="1882" height="807" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/084cf569-c18f-4942-adde-4f535d09409b" />
 ### 1️⃣ Total Sales by Fat Content
 <!-- ADD YOUR FAT CONTENT DONUT CHART SCREENSHOT HERE -->
-
 
 ---
 ### 2️⃣ Total Sales by Item Type
 <!-- ADD YOUR ITEM TYPE BAR CHART SCREENSHOT HERE -->
 
-
 ---
 ### 3️⃣ Fat Content by Outlet — Total Sales
 <!-- ADD YOUR STACKED COLUMN CHART SCREENSHOT HERE -->
-
 
 ---
 ### 4️⃣ Total Sales by Outlet Establishment Year
 <!-- ADD YOUR LINE CHART SCREENSHOT HERE -->
 
-
 ---
 ### 5️⃣ Sales by Outlet Size
 <!-- ADD YOUR OUTLET SIZE DONUT CHART SCREENSHOT HERE -->
-
 
 ---
 ### 6️⃣ Sales by Outlet Location
 <!-- ADD YOUR FUNNEL MAP SCREENSHOT HERE -->
 
-
 ---
 ### 7️⃣ All Metrics by Outlet Type
 <!-- ADD YOUR MATRIX CARD SCREENSHOT HERE -->
-
 
 ---
 
