@@ -70,10 +70,8 @@ This project is an **end-to-end Power BI Dashboard** built to analyze Blinkit's 
 
 ## 📸 Dashboard
 
-<!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/dashboard.png" width="100%" alt="Blinkit Dashboard"/>
-</p>
+![image alt](https://github.com/sonukumar-Ml/Blinkit-Analysis-Dashboard/blob/main/Blinkit-analysis-dashboard.png?raw=true)
+
 
 ---
 
@@ -89,66 +87,44 @@ This project is an **end-to-end Power BI Dashboard** built to analyze Blinkit's 
 
 ### 1️⃣ Total Sales by Fat Content
 <!-- ADD YOUR FAT CONTENT DONUT CHART SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/fat_content_chart.png" width="80%" alt="Fat Content Chart"/>
-</p>
+
 
 ---
-
 ### 2️⃣ Total Sales by Item Type
 <!-- ADD YOUR ITEM TYPE BAR CHART SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/item_type_chart.png" width="80%" alt="Item Type Chart"/>
-</p>
+
 
 ---
-
 ### 3️⃣ Fat Content by Outlet — Total Sales
 <!-- ADD YOUR STACKED COLUMN CHART SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/fat_outlet_chart.png" width="80%" alt="Fat by Outlet Chart"/>
-</p>
+
 
 ---
-
 ### 4️⃣ Total Sales by Outlet Establishment Year
 <!-- ADD YOUR LINE CHART SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/outlet_establishment_chart.png" width="80%" alt="Outlet Establishment Chart"/>
-</p>
+
 
 ---
-
 ### 5️⃣ Sales by Outlet Size
 <!-- ADD YOUR OUTLET SIZE DONUT CHART SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/outlet_size_chart.png" width="80%" alt="Outlet Size Chart"/>
-</p>
+
 
 ---
-
 ### 6️⃣ Sales by Outlet Location
 <!-- ADD YOUR FUNNEL MAP SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/outlet_location_chart.png" width="80%" alt="Outlet Location Chart"/>
-</p>
+
 
 ---
-
 ### 7️⃣ All Metrics by Outlet Type
 <!-- ADD YOUR MATRIX CARD SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/outlet_type_matrix.png" width="80%" alt="Outlet Type Matrix"/>
-</p>
+
 
 ---
 
 ## 💡 DAX Measures
 
 <!-- ADD YOUR DAX SCREENSHOT HERE -->
-<p align="center">
-  <img src="assets/dax_measures.png" width="80%" alt="DAX Measures"/>
-</p>
+
 
 ```dax
 Total Sales   = SUM('BlinkIT Grocery Data'[Sales])
@@ -186,4 +162,4 @@ Avg Rating    = AVERAGE('BlinkIT Grocery Data'[Rating])
 
 
 
-<p align="center">Made with 💛 · Powered by <b>Power BI</b> · Data from <b>Blinkit — India's Largest Minute App</b></p>
+
