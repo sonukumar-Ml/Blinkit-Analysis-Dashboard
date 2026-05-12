@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 📌 Introduction
 
 **Blinkit** (formerly Grofers) is India's largest last-minute grocery delivery app, operating across multiple cities with thousands of outlets and product categories. With rapid expansion and a highly diverse product portfolio, understanding **what sells, where it sells, and how customers respond** becomes critical for strategic business decisions.
